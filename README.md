@@ -1,2 +1,2 @@
-# i_love_graphs
+# I love graphs
 Comparing features of the Erdos-Renyi graph with a Real-world graph with the same number of nodes!
